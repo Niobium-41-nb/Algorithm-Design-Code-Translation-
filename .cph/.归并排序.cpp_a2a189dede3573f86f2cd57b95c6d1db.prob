@@ -1,0 +1,1 @@
+{"name":"Local: 归并排序","url":"d:\\算法竞赛\\算法分析与设计\\code\\归并排序.cpp","tests":[{"id":1757646494161,"input":"1\n6\n3 6 2 8 6 5","output":"2 3 5 6 6 8 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\归并排序.cpp","group":"local","local":true}
