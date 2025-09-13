@@ -1,5 +1,5 @@
 /*
-    归并排序代码
+    归并排序
 
 作者: vanadium-23(Niobium-41-nb)
 例题: https://www.luogu.com.cn/problem/P1177
