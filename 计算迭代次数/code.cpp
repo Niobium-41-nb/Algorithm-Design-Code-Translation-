@@ -1,3 +1,10 @@
+/*
+    计算迭代次数
+
+作者: vanadium-23(Niobium-41-nb)
+
+*/
+
 #include <iostream>
 using namespace std;
 
