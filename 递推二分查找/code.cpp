@@ -17,7 +17,7 @@ int binarysearch(int low,int high){
     int mid = (low+high)/2;
     if(x == A[mid])return mid;
     else if (x < A[mid])return binarysearch(low,mid-1);
-    else binarysearch(mid+1,high);
+    binarysearch(mid+1,high);
 }
 
 int main(){
