@@ -1,3 +1,10 @@
+/*
+    递推二分查找
+
+作者: vanadium-23(Niobium-41-nb)
+
+*/
+
 #include <iostream>
 using namespace std;
 
