@@ -1,4 +1,4 @@
-# Algorithm-Design-Code-Translation-
+# Algorithm-Design-Code-Translation
 
 这是一个将《算法设计技巧与分析》课程ppt 中伪代码翻译成C++代码的仓库。
 
