@@ -25,11 +25,12 @@ void UNION(int x, int y) {
     int u = FIND(x);
     int v = FIND(y);
     if (u == v) return;  
-    if (Rank[u] > Rank[v]) {
-        swap(u, v);
+    if(Rank[u] <= Rank[v]){
+        A[u] = v;
+        if(Rank[u] == Rank[v])Rank[v] = Rank[v]+1;
+    }else{
+        A[v] = u;
     }
-    A[u] = v;
-    if (Rank[u] == Rank[v]) Rank[v]++;
 }
 
 int main(){
