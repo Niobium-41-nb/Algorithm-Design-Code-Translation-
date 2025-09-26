@@ -1,7 +1,5 @@
-# Algorithm-Design-Code-Translation-
+# Algorithm Design & Code Translation
 
-这是一个将《算法设计技巧与分析》课程ppt 中伪代码翻译成C++代码的仓库。
+本仓库旨在将《算法设计技巧与分析》课程PPT中的伪代码翻译为C++实现代码。
 
-作者会依照课程进度来更新此仓库，欢迎读者来催更，如果对你有用请点一个免费的star，这对我很重要。
-
-![](.vscode\DE325F5849A060AB9A6EFA125AF67F6C.jpg)
+作者将根据课程进度持续更新内容，欢迎关注与督促。如果本项目对您有所帮助，请点一个免费的 Star，您的支持对我非常重要！
