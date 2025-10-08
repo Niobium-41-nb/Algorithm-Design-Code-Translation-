@@ -1,0 +1,1 @@
+{"name":"Local: 基数排序","url":"d:\\算法竞赛\\算法分析与设计\\code\\2405-06班-算法分析与设计-实验1-算法基础\\基数排序.cpp","tests":[{"id":1759881807624,"input":"5\n35 28 9 87 56","output":"9 28 35 56 87"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\2405-06班-算法分析与设计-实验1-算法基础\\基数排序.cpp","group":"local","local":true}

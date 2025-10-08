@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\算法竞赛\\算法分析与设计\\code\\平面最近点对\\code.cpp","tests":[{"id":1759807186145,"input":"5\n1 1\n1 9\n9 1\n9 9\n0 10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\平面最近点对\\code.cpp","group":"local","local":true}
