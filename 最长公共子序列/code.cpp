@@ -1,8 +1,8 @@
 /*
-    最长公共子序列
+    最长公共子序列(无位运算优化)
 
 作者：vanadium-23(Niobium-41-nb)
-例题：https://loj.ac/p/6564
+例题：https://loj.ac/p/6564    50分
 */
 
 #include <bits/stdc++.h>
