@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\算法竞赛\\算法分析与设计\\code\\01背包\\code.cpp","tests":[{"id":1760062751206,"input":"70 3\n71 100\n69 1\n1 2\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\01背包\\code.cpp","group":"local","local":true}
