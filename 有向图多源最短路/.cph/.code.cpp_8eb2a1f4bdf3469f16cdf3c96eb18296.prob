@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\算法竞赛\\算法分析与设计\\code\\多源最短路\\code.cpp","tests":[{"id":1760411787629,"input":"3 5\n1 2 2\n2 1 8\n3 1 1\n1 3 9\n2 3 6","output":"0 2 8 \r\n7 0 6 \r\n1 3 0 \r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\多源最短路\\code.cpp","group":"local","local":true}
