@@ -1,0 +1,1 @@
+{"name":"Local: 邮局选址问题","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计2405-06班-实验2-分治\\邮局选址问题.cpp","tests":[{"id":1760489259062,"input":"5\n1 2\n2 2\n1 3\n3 -2\n3 3","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计2405-06班-实验2-分治\\邮局选址问题.cpp","group":"local","local":true}
