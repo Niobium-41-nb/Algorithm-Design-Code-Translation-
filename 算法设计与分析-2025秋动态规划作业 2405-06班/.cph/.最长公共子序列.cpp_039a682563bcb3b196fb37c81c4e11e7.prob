@@ -1,0 +1,1 @@
+{"name":"Local: 最长公共子序列","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法设计与分析-2025秋动态规划作业 2405-06班\\最长公共子序列.cpp","tests":[{"id":1760497240831,"input":"abcde\nace","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法设计与分析-2025秋动态规划作业 2405-06班\\最长公共子序列.cpp","group":"local","local":true}
