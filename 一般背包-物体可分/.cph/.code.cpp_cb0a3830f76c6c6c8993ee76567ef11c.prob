@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\算法竞赛\\算法分析与设计\\code\\一般背包-物体可分\\code.cpp","tests":[{"id":1760668301399,"input":"4 50\n10 60\n20 100\n30 120\n15 45\n\n","output":"240.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\一般背包-物体可分\\code.cpp","group":"local","local":true}
