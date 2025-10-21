@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"d:\\算法竞赛\\算法分析与设计\\code\\Prim算法\\code.cpp","tests":[{"id":1761012360381,"input":"4 5\n1 2 2\n1 3 2\n1 4 3\n2 3 4\n3 4 3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\Prim算法\\code.cpp","group":"local","local":true}
