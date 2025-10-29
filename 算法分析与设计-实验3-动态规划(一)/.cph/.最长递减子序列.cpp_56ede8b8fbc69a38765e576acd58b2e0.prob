@@ -1,0 +1,1 @@
+{"name":"Local: 最长递减子序列","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-实验3-动态规划(一)\\最长递减子序列.cpp","tests":[{"id":1761091404362,"input":"7\n7 5 4 8 9 4 10","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-实验3-动态规划(一)\\最长递减子序列.cpp","group":"local","local":true}

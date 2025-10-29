@@ -1,0 +1,1 @@
+{"name":"Local: 矩阵链相乘--动态规划","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-实验3-动态规划(一)\\矩阵链相乘--动态规划.cpp","tests":[{"id":1761091616219,"input":"3\n2 10\n10 2\n2 10","output":"80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-实验3-动态规划(一)\\矩阵链相乘--动态规划.cpp","group":"local","local":true}

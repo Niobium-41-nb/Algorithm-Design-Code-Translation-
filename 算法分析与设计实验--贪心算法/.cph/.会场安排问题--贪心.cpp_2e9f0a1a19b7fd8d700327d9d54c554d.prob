@@ -1,0 +1,1 @@
+{"name":"Local: 会场安排问题--贪心","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计实验--贪心算法\\会场安排问题--贪心.cpp","tests":[{"id":1761696905184,"input":"5                                    \n1 23\n12 28\n25 35\n27 80\n36 50","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计实验--贪心算法\\会场安排问题--贪心.cpp","group":"local","local":true}
