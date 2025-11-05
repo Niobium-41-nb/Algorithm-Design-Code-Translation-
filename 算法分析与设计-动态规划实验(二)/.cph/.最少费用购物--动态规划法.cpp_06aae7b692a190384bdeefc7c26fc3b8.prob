@@ -1,0 +1,1 @@
+{"name":"Local: 最少费用购物--动态规划法","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-动态规划实验(二)\\最少费用购物--动态规划法.cpp","tests":[{"id":1762302876223,"input":"2\n\n7 3 2\n8 2 5\n2\n1 7 3 5\n2 7 1 8 2 10","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-动态规划实验(二)\\最少费用购物--动态规划法.cpp","group":"local","local":true}
