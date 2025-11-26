@@ -1,0 +1,1 @@
+{"name":"Local: 罗密欧与朱丽叶的迷宫问题","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法设计与分析实验-回溯算法\\罗密欧与朱丽叶的迷宫问题.cpp","tests":[{"id":1762907067112,"input":"3 4 2\n1 2\n3 4\n1 1\n2 2","output":"6\n7\n1 -1 9 8\n2 10 6 7\n3 4 5 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法设计与分析实验-回溯算法\\罗密欧与朱丽叶的迷宫问题.cpp","group":"local","local":true}

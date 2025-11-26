@@ -1,0 +1,1 @@
+{"name":"Local: 用分治限界法解决0-1背包问题","url":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-分支限界法\\用分治限界法解决0-1背包问题.cpp","tests":[{"id":1764115414235,"input":"10\n7 42\n3 12\n4 40\n5 25","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法竞赛\\算法分析与设计\\code\\算法分析与设计-分支限界法\\用分治限界法解决0-1背包问题.cpp","group":"local","local":true}
